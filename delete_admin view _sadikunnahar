@@ -1,0 +1,7 @@
+Delete Drug
+DELETE FROM drug WHERE drug_id = 1;
+Delete Drug
+DELETE FROM drug WHERE drug_id = 1;
+SELECT * FROM drug;
+SELECT * FROM customer;
+SELECT * FROM sales;
